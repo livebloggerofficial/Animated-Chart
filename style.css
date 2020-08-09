@@ -1,0 +1,14 @@
+.chart-container {
+  width: 600px;
+  padding: 10px 48px;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+}
+
+.chart-container h2.chart-heading {
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
